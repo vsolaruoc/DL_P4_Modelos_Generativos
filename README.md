@@ -1,5 +1,6 @@
 # DL_P4_Modelos_Generativos
 Modelos generativos usando redes GAN, CGAN.
+Construcción de una GAN Condicional que sea capaz de generar dígitos manuscritos condicionados a una clase concreta.
 
 # Autor:
 - Víctor M. Sola Rodríguez.
